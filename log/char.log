@@ -258,3 +258,9 @@
 04-09-2011 03:33:07: Character Selected, Account ID: 2000002, Character Slot: 2, Character Name: professor.
 04-09-2011 03:33:22: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: Menestrel.
 04-09-2011 03:33:32: Character Selected, Account ID: 2000003, Character Slot: 2, Character Name: Douglas Aspd190.
+
+07-09-2011 23:22:16: The char-server starting...
+07-09-2011 23:22:16: mmo_char_init: No character found in save/athena.txt.
+07-09-2011 23:22:16: Id for the next created character: 150000.
+07-09-2011 23:22:16: The char-server is ready (Server is listening on the port 6121).
+07-09-2011 23:22:24: Map-Server 0 connected: 760 maps, from IP 192.168.1.2 port 5121. Map-server 0 loading complete.
