@@ -20,7 +20,7 @@
 		set @id_equipamento,0;
 		set @id_encantamento,0;// id da carta de encantamento
 //============================================================
-    if(! getgmlevel) { mes "Acesso restrito a desenvolvedores e administradores"; close ;}
+    if(! getgmlevel()) { mes "Acesso restrito a desenvolvedores e administradores"; close ;}
 		mes "^F30000Atenção ^486100"+ (strcharinfo(0)) +"^000000 , ao utilizar este npc certifique das informações passadas.Qualquer dúvida consulte uma database :^000000 ragdata.com";
 		switch(select("Continuar","Sair")){ case 1: next;mes .name$;mes "Bem Vindo ao sistema de encantamento de equipamentos ";break; case 2 : close;}
 		next;
