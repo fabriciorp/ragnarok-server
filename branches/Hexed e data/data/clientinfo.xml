@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information - Taiwan Version</desc>
+	<servicetype>korea</servicetype>
+	<servertype>sakray</servertype>
+	<connection>
+		<display>Ragnarok</display>
+		<desc>Servidor para teste - Yashiko</desc>
+		<balloon>800/855/1% - drops card</balloon>
+		<langtype>12</langtype>
+		<version>25</version>
+		<address>yashiko.dyndns.info</address>
+		<port>6900</port>
+		<aid>
+			<admin>2000000</admin>
+		</aid>
+		<loading>
+			<image>loading00.jpg</image>
+		</loading>
+	</connection>
+	<registrationweb>Nothing - Offline System</registrationweb>
+</clientinfo>
