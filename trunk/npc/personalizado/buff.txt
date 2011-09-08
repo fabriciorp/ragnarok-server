@@ -1,0 +1,14 @@
+new_1-1,55,114,4	script	Buffadora Yashiko	863,{
+	skilleffect 74,0; sc_start SC_MAGNIFICAT,360000,5;
+	skilleffect 75,0; sc_start SC_GLORIA,360000,5;
+	skilleffect 34,0; sc_start SC_BLESSING,360000,10;
+	skilleffect 29,0; sc_start SC_INCREASEAGI,360000,10;
+	specialeffect2 338;
+	specialeffect2 14;
+	specialeffect2 118;
+	specialeffect2 129;
+	specialeffect2 236;
+	percentheal 100,100;
+	emotion 51;
+	close;
+}

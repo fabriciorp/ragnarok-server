@@ -1,0 +1,167 @@
+2011-09-03 16:57:39	0.0.0.0	login server	100	login server started
+2011-09-03 16:57:40	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 16:58:09	127.0.0.1	blastin_H	0	Unregistered ID.
+2011-09-03 16:59:50	127.0.0.1	blastin	0	Unregistered ID.
+2011-09-03 16:59:52	127.0.0.1	blastin	0	Unregistered ID.
+2011-09-03 17:00:12	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 17:00:25	127.0.0.1	blastin	0	Unregistered ID.
+2011-09-03 17:00:27	127.0.0.1	blastin	0	Unregistered ID.
+2011-09-03 17:00:59	0.0.0.0	login server	100	login server started
+2011-09-03 17:01:02	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 17:01:11	127.0.0.1	blastin	100	login ok
+2011-09-03 17:26:26	0.0.0.0	login server	100	login server started
+2011-09-03 17:26:27	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 17:30:24	127.0.0.1	blastin	1	Incorrect Password.
+2011-09-03 17:30:28	127.0.0.1	blastin	100	login ok
+2011-09-03 17:44:33	0.0.0.0	login server	100	login server started
+2011-09-03 17:44:34	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 17:44:38	127.0.0.1	blastin	100	login ok
+2011-09-03 17:44:42	127.0.0.1	blastin	100	login ok
+2011-09-03 17:44:45	127.0.0.1	blastin	100	login ok
+2011-09-03 17:52:06	0.0.0.0	login server	100	login server started
+2011-09-03 17:52:10	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 17:52:29	127.0.0.1	blastin	100	login ok
+2011-09-03 18:00:56	127.0.0.1	blastin	100	login ok
+2011-09-03 18:28:05	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 18:28:41	127.0.0.1	blastin	1	Incorrect Password.
+2011-09-03 18:28:43	127.0.0.1	blastin	100	login ok
+2011-09-03 18:43:38	127.0.0.1	blastin	1	Incorrect Password.
+2011-09-03 18:43:40	127.0.0.1	blastin	1	Incorrect Password.
+2011-09-03 18:43:41	127.0.0.1	blastin	100	login ok
+2011-09-03 19:11:22	0.0.0.0	login server	100	login server started
+2011-09-03 19:11:23	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 19:11:26	127.0.0.1	blastin	1	Incorrect Password.
+2011-09-03 19:11:28	127.0.0.1	blastin	100	login ok
+2011-09-03 19:11:36	127.0.0.1	blastin	100	login ok
+2011-09-03 19:11:39	127.0.0.1	blastin	100	login ok
+2011-09-03 19:33:16	127.0.0.1	blastin	1	Incorrect Password.
+2011-09-03 19:33:18	127.0.0.1	blastin	100	login ok
+2011-09-03 20:07:17	0.0.0.0	login server	100	login server started
+2011-09-03 20:07:18	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 20:07:37	127.0.0.1	blastin	100	login ok
+2011-09-03 20:09:59	0.0.0.0	login server	100	login server started
+2011-09-03 20:10:00	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 20:10:18	127.0.0.1	blastin	100	login ok
+2011-09-03 20:15:06	0.0.0.0	login server	100	login server started
+2011-09-03 20:15:07	192.168.1.2	s1	100	charserver - Cronus@192.168.1.2:6121
+2011-09-03 20:15:16	127.0.0.1	blastin	100	login ok
+2011-09-03 21:12:35	187.105.167.248	blastin	100	login ok
+2011-09-03 21:14:12	0.0.0.0	login server	100	login server started
+2011-09-03 21:14:13	192.168.1.2	s1	100	charserver - Yashiko_@192.168.1.2:6121
+2011-09-03 21:20:45	187.105.167.248	blastin	100	login ok
+2011-09-03 21:20:52	187.105.167.248	blastin	100	login ok
+2011-09-03 21:22:14	0.0.0.0	login server	100	login server started
+2011-09-03 21:22:22	0.0.0.0	login server	100	login server started
+2011-09-03 21:22:23	192.168.1.2	s1	100	charserver - Yashiko_@192.168.1.2:6121
+2011-09-03 21:29:29	192.168.1.2	s1	100	charserver - Yashiko_@192.168.1.2:6121
+2011-09-03 21:29:37	189.72.121.3	douglas	0	Unregistered ID.
+2011-09-03 21:29:51	189.72.121.3	douglas	0	Unregistered ID.
+2011-09-03 21:30:22	189.72.121.3	douglas	100	login ok
+2011-09-03 21:54:58	187.105.167.248	blastin	100	login ok
+2011-09-03 21:56:07	189.72.121.3	douglas	100	login ok
+2011-09-03 21:56:19	0.0.0.0	login server	100	login server started
+2011-09-03 21:56:20	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-03 21:56:23	189.72.121.3	douglas	100	login ok
+2011-09-03 21:56:28	189.72.121.3	douglas	100	login ok
+2011-09-03 21:56:30	187.105.167.248	blastin	100	login ok
+2011-09-03 21:57:12	189.72.121.3	douglas	100	login ok
+2011-09-04 00:08:51	189.72.121.3	douglas	100	login ok
+2011-09-04 00:12:27	189.72.121.3	douglas	100	login ok
+2011-09-04 00:30:34	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 00:30:39	189.72.121.3	douglas	100	login ok
+2011-09-04 00:30:42	189.72.121.3	douglas	100	login ok
+2011-09-04 00:30:47	187.105.167.248	blastin	1	Incorrect Password.
+2011-09-04 00:30:50	187.105.167.248	blastin	100	login ok
+2011-09-04 00:51:56	0.0.0.0	login server	100	login server started
+2011-09-04 00:52:01	0.0.0.0	login server	100	login server started
+2011-09-04 00:52:04	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 00:52:13	0.0.0.0	login server	100	login server started
+2011-09-04 00:52:14	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 00:52:17	189.72.121.3	douglas	100	login ok
+2011-09-04 00:52:24	189.72.121.3	douglas	100	login ok
+2011-09-04 00:53:03	187.105.167.248	blastin	100	login ok
+2011-09-04 00:57:30	189.33.196.22	carlos	0	Unregistered ID.
+2011-09-04 00:57:37	189.33.196.22	carlos	0	Unregistered ID.
+2011-09-04 00:57:57	189.33.196.22	carlos	100	login ok
+2011-09-04 01:00:40	0.0.0.0	login server	100	login server started
+2011-09-04 01:00:41	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 01:00:43	189.72.121.3	douglas	100	login ok
+2011-09-04 01:00:48	187.105.167.248	blastin	1	Incorrect Password.
+2011-09-04 01:00:48	189.72.121.3	douglas	100	login ok
+2011-09-04 01:00:50	187.105.167.248	blastin	100	login ok
+2011-09-04 01:00:53	189.72.121.3	douglas	100	login ok
+2011-09-04 01:02:33	189.33.196.22	carlos	100	login ok
+2011-09-04 01:09:59	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:10:31	0.0.0.0	login server	100	login server started
+2011-09-04 01:10:31	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 01:10:43	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:11:07	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 01:11:21	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 01:11:29	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:12:15	0.0.0.0	login server	100	login server started
+2011-09-04 01:12:15	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 01:12:28	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:12:34	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:13:38	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:13:41	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:14:51	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:15:20	0.0.0.0	login server	100	login server started
+2011-09-04 01:15:31	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 01:15:42	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:16:49	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:18:48	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:19:33	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:19:34	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 01:29:17	0.0.0.0	login server	100	login server started
+2011-09-04 01:29:19	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 01:29:19	189.72.121.3	douglas	100	login ok
+2011-09-04 01:29:25	189.72.121.3	douglas	100	login ok
+2011-09-04 01:29:31	189.72.121.3	douglas	100	login ok
+2011-09-04 01:29:42	187.105.167.248	blastin	100	login ok
+2011-09-04 02:30:13	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 02:30:14	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 02:30:45	0.0.0.0	login server	100	login server started
+2011-09-04 02:30:47	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 02:31:11	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 02:31:14	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 02:31:18	187.105.167.248	blastin	100	login ok
+2011-09-04 02:31:23	189.72.121.3	douglas	100	login ok
+2011-09-04 02:32:15	0.0.0.0	login server	100	login server started
+2011-09-04 02:32:16	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 02:32:19	189.72.121.3	douglas	100	login ok
+2011-09-04 02:32:19	187.105.167.248	blastin	100	login ok
+2011-09-04 02:32:25	189.72.121.3	douglas	100	login ok
+2011-09-04 02:32:30	189.72.121.3	douglas	100	login ok
+2011-09-04 02:32:34	187.105.167.248	blastin	100	login ok
+2011-09-04 02:32:35	189.72.121.3	douglas	100	login ok
+2011-09-04 02:33:04	187.105.167.248	blasti	0	Unregistered ID.
+2011-09-04 02:34:18	0.0.0.0	login server	100	login server started
+2011-09-04 02:34:19	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 02:34:24	187.105.167.248	jeff	100	login ok
+2011-09-04 02:34:42	189.72.121.3	douglas	100	login ok
+2011-09-04 02:34:52	187.105.167.248	blastin	100	login ok
+2011-09-04 02:34:55	187.105.167.248	jeff	100	login ok
+2011-09-04 03:31:49	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 03:31:51	189.72.121.3	douglas	100	login ok
+2011-09-04 03:31:56	187.105.167.248	blastin	100	login ok
+2011-09-04 03:31:58	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:03	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:07	187.105.167.248	blastin	100	login ok
+2011-09-04 03:32:07	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:10	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:10	187.105.167.248	blastin	100	login ok
+2011-09-04 03:32:14	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:15	187.105.167.248	jeff	100	login ok
+2011-09-04 03:32:18	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:19	187.105.167.248	blastin	100	login ok
+2011-09-04 03:32:23	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:27	189.72.121.3	douglas	100	login ok
+2011-09-04 03:32:44	0.0.0.0	login server	100	login server started
+2011-09-04 03:32:45	127.0.0.1	s1	100	charserver - Yashiko_@127.0.0.1:6121
+2011-09-04 03:32:56	187.105.167.248	blastin	100	login ok
+2011-09-04 03:33:01	187.105.167.248	blastin	100	login ok
+2011-09-04 03:33:06	187.105.167.248	blastin	100	login ok
+2011-09-04 03:33:12	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 03:33:14	187.105.167.248	knin	0	Unregistered ID.
+2011-09-04 03:33:20	187.105.167.248	jeff	100	login ok
+2011-09-04 03:33:31	189.72.121.3	douglas	100	login ok
