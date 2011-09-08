@@ -1,4 +1,4 @@
-alberta.gat,177,141,5	script	Buffs	863,{
+prontera.gat,177,141,5	script	Buffs	863,{
 skilleffect 34,0;sc_start SC_BLESSING,360000,10;
 	skilleffect 29,0;sc_start SC_INCREASEAGI,360000,10;
 percentheal 100,100;
