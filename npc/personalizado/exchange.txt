@@ -2,30 +2,30 @@
 //= Encantamento ID
 //===== Por: =================================================
 //= Yashiko
-//===== Vers„o Atual: ========================================
-//= (3290) Cr/(Vers„o atual eAthena) eA
+//===== Vers√£o Atual: ========================================
+//= (3290) Cr/(Vers√£o atual eAthena) eA
 //===== Compatibilidade: =====================================
-//= (Emulador [Revis„o]; Cliente [EpisÛdio])
-//===== DescriÁ„o: ===========================================
-//= ( Breve descriÁ„o sobre as funÁıes do(s) NPC(s) )
-//===== Coment·rios Adicionais: ==============================
-//= (Vers„o MudanÁa) [Nome]
+//= (Emulador [Revis√£o]; Cliente [Epis√≥dio])
+//===== Descri√ß√£o: ===========================================
+//= ( Breve descri√ß√£o sobre as fun√ß√µes do(s) NPC(s) )
+//===== Coment√°rios Adicionais: ==============================
+//= (Vers√£o Mudan√ßa) [Nome]
 //============================================================
 //= (Local no mapa)
 	jawaii.gat,228,111,2	script	Exchange	73,{
 //============================================================
-//= (VariavÈis)
+//= (Variav√©is)
 		set @debug,1; // ligar debug?
 		set .name$,"^7BB3F8[exchange]^000000";
 		set @id_equipamento,0;
 		set @id_encantamento,0;// id da carta de encantamento
 //============================================================
-
-		mes "^F30000AtenÁ„o, ao utilizar este npc certifique das informaÁıes passadas.Qualquer d˙vida consulte uma database :^000000 ragdata.com";
+    if(! getgmlevel) { mes "Acesso restrito a desenvolvedores e administradores"; close ;}
+		mes "^F30000Aten√ß√£o ^486100"+ (strcharinfo(0)) +"^000000 , ao utilizar este npc certifique das informa√ß√µes passadas.Qualquer d√∫vida consulte uma database :^000000 ragdata.com";
 		switch(select("Continuar","Sair")){ case 1: next;mes .name$;mes "Bem Vindo ao sistema de encantamento de equipamentos ";break; case 2 : close;}
 		next;
 		
-		label_inicial: // comeÁo do npc :
+		label_inicial: // come√ßo do npc :
 			
 			
 	
