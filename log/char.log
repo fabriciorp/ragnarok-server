@@ -264,3 +264,32 @@
 07-09-2011 23:22:16: Id for the next created character: 150000.
 07-09-2011 23:22:16: The char-server is ready (Server is listening on the port 6121).
 07-09-2011 23:22:24: Map-Server 0 connected: 760 maps, from IP 192.168.1.2 port 5121. Map-server 0 loading complete.
+
+07-09-2011 23:49:10: The char-server starting...
+07-09-2011 23:49:10: mmo_char_init: No character found in save/athena.txt.
+07-09-2011 23:49:10: Id for the next created character: 150000.
+07-09-2011 23:49:10: The char-server is ready (Server is listening on the port 6121).
+
+07-09-2011 23:50:44: The char-server starting...
+07-09-2011 23:50:44: mmo_char_init: No character found in save/athena.txt.
+07-09-2011 23:50:44: Id for the next created character: 150000.
+07-09-2011 23:50:44: The char-server is ready (Server is listening on the port 6121).
+07-09-2011 23:50:51: Map-Server 0 connected: 760 maps, from IP 192.168.1.2 port 5121. Map-server 0 loading complete.
+07-09-2011 23:52:15: make new char: account: 2000002, slot 0, name: Douglas Criador, stats: 1/1/5/9/5/9, hair: 22, hair color: 0.
+07-09-2011 23:52:17: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Douglas Criador.
+07-09-2011 23:57:12: make new char: account: 2000003, slot 0, name: Professor, stats: 4/9/7/6/3/1, hair: 8, hair color: 0.
+07-09-2011 23:57:13: Character Selected, Account ID: 2000003, Character Slot: 0, Character Name: Professor.
+
+08-09-2011 00:00:09: The char-server starting...
+08-09-2011 00:00:09: mmo_char_init: 2 characters read in save/athena.txt.
+08-09-2011 00:00:09: Id for the next created character: 150002.
+08-09-2011 00:00:09: The char-server is ready (Server is listening on the port 6121).
+08-09-2011 00:00:21: Map-Server 0 connected: 760 maps, from IP 192.168.1.2 port 5121. Map-server 0 loading complete.
+08-09-2011 00:01:47: Character Selected, Account ID: 2000003, Character Slot: 0, Character Name: Professor.
+08-09-2011 00:03:52: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Douglas Criador.
+08-09-2011 00:26:31: make new char: account: 2000004, slot 0, name: Clown, stats: 5/5/5/5/5/5, hair: 8, hair color: 0.
+08-09-2011 00:26:33: Character Selected, Account ID: 2000004, Character Slot: 0, Character Name: Clown.
+08-09-2011 00:28:54: Character Selected, Account ID: 2000004, Character Slot: 0, Character Name: Clown.
+08-09-2011 00:29:18: Map-Server 0 connected: 760 maps, from IP 192.168.1.2 port 5121. Map-server 0 loading complete.
+08-09-2011 00:29:25: Character Selected, Account ID: 2000004, Character Slot: 0, Character Name: Clown.
+08-09-2011 00:29:42: Character Selected, Account ID: 2000003, Character Slot: 0, Character Name: Professor.

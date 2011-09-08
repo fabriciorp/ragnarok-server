@@ -794,3 +794,12 @@
 09/04/2011 03:54:36 - professor[2000002]: @item 2322 
 09/04/2011 03:55:23 - professor[2000002]: @item 2322 
 09/04/2011 03:55:47 - professor[2000002]: @item 2322 
+09/08/2011 00:04:18 - Douglas Criador[2000002]: @lvup 99
+09/08/2011 00:04:47 - Douglas Criador[2000002]: @joblvup 70
+09/08/2011 00:06:24 - Douglas Criador[2000002]: @job
+09/08/2011 00:06:41 - Douglas Criador[2000002]: @job 4019
+09/08/2011 00:07:45 - Professor[2000003]: @reloadscript
+09/08/2011 00:08:03 - Douglas Criador[2000002]: @joblvup 70
+09/08/2011 00:09:35 - Professor[2000003]: @reloadatcommand
+09/08/2011 00:09:50 - Professor[2000003]: @reloadscript 
+09/08/2011 00:26:59 - Professor[2000003]: #go Clown 17

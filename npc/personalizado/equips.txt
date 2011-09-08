@@ -1,1 +1,1 @@
-new_1-1,61,114,4	shop	Equips	712,1705:300
+jawaii.gat,238,107,4	shop	Equips	712,1705:-1
