@@ -23,43 +23,29 @@
     if(! getgmlevel()) { mes "Acesso restrito a desenvolvedores e administradores"; close ;}
 		mes "^F30000Atenção ^486100"+ (strcharinfo(0)) +"^000000 , ao utilizar este npc certifique das informações passadas.Qualquer dúvida consulte uma database :^000000 ragdata.com";
 		switch(select("Continuar","Sair")){ case 1: next;mes .name$;mes "Bem Vindo ao sistema de encantamento de equipamentos ";break; case 2 : close;}
-		next;
-		
-		label_inicial: // começo do npc :
-			
-			
-	
-			mes .name$;
-			mes "Qual id do equipamento para encantar  ? ";
-			input @id_equipamento;
-			if (@debug && @id_equipamento == -1) close;
-			mes " Id retornou : "+(getitemname(@id_equipamento));
-			
-			while(getitemname(@id_equipamento) == "null") {
-			next;
-			mes .name$;
-			mes "Qual id do equipamento para encantar  ? ";
-			input @id_equipamento;
-			if (@debug && @id_equipamento == -1) close;
-			mes " Id retornou : "+(getitemname(@id_equipamento));
-			}
-			
-			next;
-			mes .name$;
-			mes "Qual id do encantamento ?";
-			input @id_encantamento;
-			if (@debug && @id_encantamento == -1) close;
-			mes " Id retornou : \n"+(getitemname(@id_encantamento));
-			
-			while(getitemname(@id_encatanamento) == "null" && (@id_encantamento < 4700 || @id_encantamento > 4750)){
-				next;
-				mes .name$;
-				mes "Qual id do encantamento ?";
-				input @id_encantamento;
-				if (@debug && @id_encantamento == -1) close;
-				mes " Id retornou : \n"+(getitemname(@id_encantamento));
-				 
-			}
+		next;		
+		  
+        label_inicial: // começo do npc :
+
+                do {
+                    mes .name$;
+                    mes "Qual id do equipamento para encantar  ? ";
+                    input @id_equipamento;
+                    if (@debug && @id_equipamento == -1) close;
+                    mes " Id retornou : "+(getitemname(@id_equipamento));
+
+                }while(getitemname(@id_equipamento) == "null");
+                
+                next;
+                
+                do{
+                    mes .name$;
+                    mes "Qual id do encantamento ?";
+                    input @id_encantamento;
+                    if (@debug && @id_encantamento == -1) close;
+                    mes " Id retornou : \n"+(getitemname(@id_encantamento));
+                }while(getitemname(@id_encatanamento) == "null" && (@id_encantamento < 4700 || @id_encantamento > 4750));
+                
 			switch(select("Finalizar Processo","Voltar","Sair")) {
 				case 1:
 					getitem2 @id_equipamento, 1, 1, 0, 0, 0, 0, 0, @id_encantamento;
